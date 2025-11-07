@@ -1,0 +1,16 @@
+// Copyright 2022 QMK
+// SPDX-License-Identifier: GPL-2.0-or-later
+
+#include "quantum.h"
+
+void keyboard_post_init_kb(void) {
+    // debug_enable   = true;
+    // debug_matrix   = true;
+    // debug_keyboard = true;
+    // debug_mouse    = true;
+    debug_enable   = false;
+    debug_matrix   = false;
+    debug_keyboard = false;
+    debug_mouse    = false;
+    keyboard_post_init_user();
+}

@@ -1,0 +1,69 @@
+{
+  "name": "uofa_macropad",
+  "vendorProductId": 1701277040,
+  "macros": [
+    "This is a test of the macros",
+    "Ur a poop",
+    "macro 3",
+    "macro4",
+    "macro5",
+    "macro6",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "layers": [
+    [
+      "KC_VOLD",
+      "KC_VOLU",
+      "KC_NO",
+      "MO(1)",
+      "KC_BRID",
+      "KC_BRIU",
+      "MO(2)",
+      "KC_MS_WH_UP",
+      "KC_MS_WH_DOWN"
+    ],
+    [
+      "MACRO(0)",
+      "MACRO(1)",
+      "KC_TRNS",
+      "KC_TRNS",
+      "MACRO(2)",
+      "MACRO(3)",
+      "KC_TRNS",
+      "MACRO(4)",
+      "MACRO(5)"
+    ],
+    [
+      "KC_CALC",
+      "KC_MAIL",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_MENU",
+      "KC_MYCM",
+      "KC_TRNS",
+      "KC_FIND",
+      "KC_WWW_SEARCH"
+    ],
+    [
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
+    ]
+  ],
+  "encoders": []
+}

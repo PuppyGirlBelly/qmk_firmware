@@ -1,0 +1,10 @@
+{
+    "config": {
+        "features": {
+            "via": true
+        },
+        "tapping": {
+            "term": 500
+        }
+    }
+}
